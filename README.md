@@ -23,3 +23,9 @@ A Mod that adds Asian Food to your game
 ![Screenshot 2024-10-02 092943](https://github.com/user-attachments/assets/477ae796-707b-4706-88ea-8128ad6c01e6)
 
 ![Screenshot 2024-10-02 093012](https://github.com/user-attachments/assets/dbc20aa3-f353-4422-83bf-1752d0aa7d71)
+
+**Sushi restores 4.5 food points,**
+**Soup restores 3.5 food points,**
+**Lastly, Ramen restores 6 food points**
+
+## Enjoy!
