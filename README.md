@@ -1,6 +1,6 @@
 <div align="center"><p>
 
-A Mod that adds Asian Food to your game
+A Mod that adds foods and items from Asia to your game
 
 ## Recipes and Description
  There are 5 items/foods in the mod:
