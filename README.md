@@ -18,7 +18,7 @@ A Mod that adds foods and items from Asia to your game
 
 ![Screenshot 2024-10-02 092809](https://github.com/user-attachments/assets/a145f483-250b-40fb-b963-9bb2ed6f3244)
 
-![Screenshot 2024-10-02 092902](https://github.com/user-attachments/assets/8e3d5374-2f28-4166-9d71-1e16ec4fd425)
+![Screenshot 2024-10-03 065414](https://github.com/user-attachments/assets/9e2391c9-a89f-49df-9183-42e2259251a4)
 
 ![Screenshot 2024-10-02 092943](https://github.com/user-attachments/assets/477ae796-707b-4706-88ea-8128ad6c01e6)
 
