@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_chopsticks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "foreignfoods:chopsticks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "foreignfoods:chopsticks"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_chopsticks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "foreignfoods:chopsticks"
+    ]
+  }
+}

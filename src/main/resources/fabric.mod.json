@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "foreignfoods",
+	"version": "${version}",
+	"name": "foreignfoods",
+	"description": "This adds Asian foods to Minecraft!",
+	"authors": [
+		"JCS"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/foreignfoods/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"github.jcsmecabricks.foreignfoods.Foreignfoods"
+		],
+		"client": [
+			"github.jcsmecabricks.foreignfoods.ForeignfoodsClient"
+		],
+		"fabric-datagen": [
+			"github.jcsmecabricks.foreignfoods.ForeignfoodsDataGenerator"
+		]
+	},
+	"mixins": [
+		"foreignfoods.mixins.json",
+		{
+			"config": "foreignfoods.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

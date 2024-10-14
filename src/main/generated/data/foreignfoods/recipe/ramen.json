@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "foreignfoods:chopsticks"
+    },
+    "R": {
+      "item": "foreignfoods:soup"
+    },
+    "S": {
+      "item": "minecraft:egg"
+    }
+  },
+  "pattern": [
+    " D ",
+    " RS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "foreignfoods:ramen"
+  }
+}
